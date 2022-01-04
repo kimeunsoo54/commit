@@ -8,6 +8,5 @@ length_in_reality = map_length * 5000
 print('=' *15)
 print('지도 상에서의 거리: ',map_length, 'cm')
 print('실제 거리: ', length_in_reality, 'cm')
-print('실제 거리: ', '%.2'
-                 'f' %(length_in_reality/100), 'm')
+print('실제 거리: ', '%.2' 'f' %(length_in_reality/100), 'm')
 print('실제 거리: ', '%.2f' %(length_in_reality/100000), 'km')
