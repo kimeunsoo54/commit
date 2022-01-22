@@ -1,4 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 .py linguist-detectable=true
 .sql linguist-detectable=true
+=======
+.py linguist-vendored=true
+.sql linguist-vendored=true
+>>>>>>> 4f318b66ee1c2874bc1bda9be67537bfead80e59
