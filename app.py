@@ -1,4 +1,3 @@
-%%capture
 !pip install yt-dlp
 !pip install git+https://github.com/openai/whisper.git -q 
 
